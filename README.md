@@ -1,6 +1,5 @@
-![logo](![WhatsApp Image 2025-08-04 at 00 39 43_38de46ff](https://github.com/user-attachments/assets/a43f8990-797f-4ec0-81ef-0c94c40973c9)
-)
-)
+![logo](WhatsApp Image 2025-08-04 at 00 39 43_38de46ff](https://github.com/user-attachments/assets/a43f8990-797f-4ec0-81ef-0c94c40973c9)
+
 <h1 align="center">Hi 👋, I'm Zabiullah</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://tse1.mm.bing.net/th/id/OIP.P4P_dtKk5nhiexXv1Hk9eQHaFj?pid=Api&P=0&h=220">
