@@ -1,4 +1,5 @@
-![logo](https://www.canva.com/design/DAGvCXNJj8s/lIJz-8FZPcgJxr_ydnhgSQ/view?utm_content=DAGvCXNJj8s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1d8afd593)
+![logo](![WhatsApp Image 2025-08-04 at 00 39 43_38de46ff](https://github.com/user-attachments/assets/a43f8990-797f-4ec0-81ef-0c94c40973c9)
+)
 )
 <h1 align="center">Hi 👋, I'm Zabiullah</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
