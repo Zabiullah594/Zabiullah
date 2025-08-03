@@ -1,4 +1,4 @@
-![logo](![WhatsApp Image 2025-08-04 at 00 39 43_838afe2e](https://github.com/user-attachments/assets/23beb3f7-60fe-49d3-9b42-76be6f61116d)
+![logo](![WhatsApp Image 2025-08-04 at 00 39 43_945c7ac7](https://github.com/user-attachments/assets/c1637deb-85d4-4673-8eae-720df440e9da)
 )
 <h1 align="center">Hi 👋, I'm Zabiullah</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
