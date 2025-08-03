@@ -1,4 +1,4 @@
-![logo](<img width="1584" height="396" alt="Your paragraph textJoin Muhammad Ali Jinnah University for a dynamic Computer Science journey! Explore programming, AI, and cybersecurity with modern labs and expert faculty  Prepare for a thrivin" src="https://github.com/user-attachments/assets/5e1afb6b-a12e-453d-a168-b0e24d706767" />
+![logo](https://www.canva.com/design/DAGvCXNJj8s/lIJz-8FZPcgJxr_ydnhgSQ/view?utm_content=DAGvCXNJj8s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1d8afd593)
 )
 <h1 align="center">Hi 👋, I'm Zabiullah</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan</h3>
